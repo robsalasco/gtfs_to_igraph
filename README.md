@@ -48,6 +48,6 @@ obs. This function was tested using the GTFS of Las Vegas, USA, downloaded on Oc
 
 ### Related projects which I still need to learn from:
 
-  - [Mateo Neira](https://mateoneira.github.io/) has similar project in `Pyhton`, [here](https://mateoneira.github.io//transport_networks/).
+  - [Mateo Neira](https://mateoneira.github.io/) has similar project in `Python`, [here](https://mateoneira.github.io//transport_networks/).
  - [Tyler Green](http://www.tyleragreen.com/) has a similar project in `Java` [to study transit system design using graph theory](https://github.com/tyleragreen/gtfs-graph).
  - Last but not least, [Manlio De Domenico](http://deim.urv.cat/~manlio.dedomenico/index.php) has created [MuxViz, which is well advanced platform for the visualization and the analysis of interconnected multilayer networks in `R`](https://github.com/manlius/muxViz).
